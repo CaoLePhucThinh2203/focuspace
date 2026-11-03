@@ -26,7 +26,7 @@ export default function Footer() {
         </div>
       </div>
       <p className="border-t border-line py-4 text-center text-xs text-muted">
-        © {new Date().getFullYear()} FocuSpace. Bảo lưu mọi quyền.
+        © 2026 FocusSpace. Bảo lưu mọi quyền.
       </p>
     </footer>
   );
